@@ -17,3 +17,29 @@
   padding: 10px 10px 0 10px;
 }
 
+body {
+	background-color: #D6E9FA;
+	color: #000000; 
+}
+
+video {
+  width: 100%;
+  height: auto;
+}
+
+
+
+p {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    font-variant: normal;
+    font-weight: bold;
+    font-size: large;
+    color: #000000;
+}
+
+.jumbotron {
+	background-color: #D6E9FA;
+}
+
+
+
