@@ -136,6 +136,20 @@ h3{
 	color: #FFFFFF;
 }
 
+.benefit{
+	background-color: #D6E9FA;
+}
+
+.benefits{
+	background-color: #D6E9FA;
+	border-left: 5px solid #57AFFF;
+}
+
+.facts{
+	background-color: #D6E9FA;
+	border-left: 5px solid #57AFFF;
+	border-right: 5px solid #57AFFF;
+}
 footer{
 	background-color: #D6E9FA;
 }
