@@ -9,7 +9,7 @@
 .mynav{
 	background-image: url("../images/navbar.jpg");
 	height: 500px;
-	background-size: cover
+	background-size: cover;
 }
 
 .navbar{
@@ -40,7 +40,7 @@ body {
 }
 
 .intro{
-	background-color: #D6E9FA
+	background-color: #D6E9FA;
 }
 
 video {
@@ -80,16 +80,11 @@ h3{
 }
 
 .features{
-	background-color: #D6E9FA
+	background-color: #D6E9FA;
 }
 
 .jumbotron {
 	background-color: #FFFFFF;
-}
-
-.about{
-	background-color: #D6E9FA;
-	border-bottom: 5px solid #57AFFF;
 }
 
 .abouts{
@@ -97,39 +92,13 @@ h3{
 	color: #FFFFFF;
 }
 
-.mission{
-	background-color: #D6E9FA;
-	border-right: 5px solid #57AFFF;
-	border-bottom: 5px solid #57AFFF;
-}
-
-.vision{
-	background-color: #D6E9FA;
-	border-left: 5px solid #57AFFF;
-	border-bottom: 5px solid #57AFFF;
-}
-
-.testimonials{
+.back{
 	background-color: #D6E9FA;
 }
 
-.anja{
-	border-right: 5px solid #57AFFF;
-	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-	font-weight: bolder;
-	font-size:large ;
-	color: #FFFFFF;
-}
-
-.susan{
-	border-right: 5px solid #57AFFF;
-	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-	font-weight: bolder;
-	font-size:large ;
-	color: #FFFFFF;
-}
-
-.peter{
+.test{
+	border-right: 5px solid #FFFFFF;
+	border-top: 5px solid #FFFFFF;
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	font-weight: bolder;
 	font-size:large ;
@@ -142,18 +111,21 @@ h3{
 
 .benefits{
 	background-color: #D6E9FA;
-	border-left: 5px solid #57AFFF;
 }
 
 .facts{
 	background-color: #D6E9FA;
-	border-left: 5px solid #57AFFF;
-	border-right: 5px solid #57AFFF;
 }
+
+.line{
+	border-right: 5px solid #FFFFFF;
+	border-top: 5px solid #FFFFFF;
+}
+
 footer{
 	background-color: #D6E9FA;
 }
 
 .logos{
-	height:100px;
+	height: 100px
 }
