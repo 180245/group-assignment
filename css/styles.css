@@ -6,11 +6,28 @@
 	padding: 0;
 }
 
-.my-navbar{
-    background-color: #076797;
-    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+.mynav{
+	background-image: url("../images/navbar.jpg");
+	height: 500px;
+	background-size: cover;
+}
+
+.navbar{
+    background-color: transparent;
+}
+
+.name{
+	font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: 40px;
+	color: #FFFFFF;
+}
+
+.nav-item {
+	font-family: 'Montserrat', sans-serif;
     font-weight: normal;
     font-size: x-large;
+	color: #FFFFFF;
 }
 .post{
 	height: 600px;
@@ -23,3 +40,86 @@
   padding: 10px 10px 0 10px;
 }
 
+body {
+	background-color: #FFFFFF;
+	color: #000000; 
+}
+
+.intro{
+	background-color: #D6E9FA;
+}
+
+video {
+  width: 100%;
+  height: auto;
+}
+
+
+.lead {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-weight:600;
+	font-size:large ;
+	color: #FFFFFF;
+}
+
+p {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-weight: bolder;
+	font-size:large ;
+	color: #FFFFFF;
+}
+
+h1{
+	font-family: 'Montserrat', sans-serif;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+h2{
+	font-family: 'Montserrat', sans-serif;
+	color: #FFFFFF;
+}
+
+h3{
+	font-family: 'Montserrat', sans-serif;
+	color: #FFFFFF;
+}
+
+.jumbotron {
+	background-color: #FFFFFF;
+}
+
+.abouts{
+	font-family: 'Montserrat', sans-serif;
+	color: #FFFFFF;
+}
+
+.back{
+	background-color: #D6E9FA;
+}
+
+.test{
+	border-right: 5px solid #FFFFFF;
+	border-top: 5px solid #FFFFFF;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-weight: bolder;
+	font-size:large ;
+	color: #FFFFFF;
+}
+
+.line{
+	border-right: 5px solid #FFFFFF;
+	border-top: 5px solid #FFFFFF;
+}
+
+.subscribe{
+	height: 400px
+}
+
+footer{
+	background-color: #D6E9FA;
+}
+
+.logos{
+	height: 100px
+}
